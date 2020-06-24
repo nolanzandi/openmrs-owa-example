@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "testnolan-owa",
+  "description": "ReactJS Example",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "/img/omrs-button.png"
+  },
+  "developer": {
+    "name": "nolanzandi",
+    "url": "https://github.com/nolanzandi/testnolan-owa"
+  },
+  "default_locale": "en",
+  "activities": {
+    "openmrs": {
+      "href": "*"
+    }
+  }
+}
